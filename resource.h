@@ -2,7 +2,6 @@
 // Microsoft Visual C++ generated include file.
 // Used by FileLockFinder.rc
 //
-#define IDI_ICON1                       102
 #define IDI_MAIN                        102
 
 // Next default values for new objects
